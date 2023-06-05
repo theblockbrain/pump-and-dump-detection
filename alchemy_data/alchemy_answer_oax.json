@@ -1,0 +1,65 @@
+[
+    {
+        "blockNum": "0x8d9bb4",
+        "uniqueId": "0x97fa3fe09703411e70fccb8a19ed48b7ed95f0325766a50b8e03538e8f19be8f:log:14",
+        "hash": "0x97fa3fe09703411e70fccb8a19ed48b7ed95f0325766a50b8e03538e8f19be8f",
+        "from": "0x3f5ce5fbfe3e9af3971dd833d26ba9b5c936f0be",
+        "to": "0x79aef4c3a7d0ef899f04a96f40ace2cd477c2405",
+        "value": 8004,
+        "erc721TokenId": null,
+        "erc1155Metadata": null,
+        "tokenId": null,
+        "asset": "OAX",
+        "category": "erc20",
+        "rawContract": {
+            "value": "0x01b1e5d048fd92900000",
+            "address": "0x701c244b988a513c945973defa05de933b23fe1d",
+            "decimal": "0x12"
+        },
+        "metadata": {
+            "blockTimestamp": "2020-01-14T17:13:20.000Z"
+        }
+    },
+    {
+        "blockNum": "0x8d9d8b",
+        "uniqueId": "0x9a1c6db347c79bd92187f2073d480cbf1df2485987c61eefc171fd7d48e54dc5:log:132",
+        "hash": "0x9a1c6db347c79bd92187f2073d480cbf1df2485987c61eefc171fd7d48e54dc5",
+        "from": "0x79aef4c3a7d0ef899f04a96f40ace2cd477c2405",
+        "to": "0x0d0707963952f2fba59dd06f2b425ace40b492fe",
+        "value": 8004,
+        "erc721TokenId": null,
+        "erc1155Metadata": null,
+        "tokenId": null,
+        "asset": "OAX",
+        "category": "erc20",
+        "rawContract": {
+            "value": "0x01b1e5d048fd92900000",
+            "address": "0x701c244b988a513c945973defa05de933b23fe1d",
+            "decimal": "0x12"
+        },
+        "metadata": {
+            "blockTimestamp": "2020-01-14T18:59:08.000Z"
+        }
+    },
+    {
+        "blockNum": "0x8d9da1",
+        "uniqueId": "0xbc14971838d05292212cfcbe22e09f1aa1dc6956a5ed6b182ec47b7b60ddcab1:log:9",
+        "hash": "0xbc14971838d05292212cfcbe22e09f1aa1dc6956a5ed6b182ec47b7b60ddcab1",
+        "from": "0x7586d2c1406bc053cae0fede125a10543afe20ee",
+        "to": "0xbf2209a0eca697fa5e3a5e726c05fe61127aebda",
+        "value": 4786.8,
+        "erc721TokenId": null,
+        "erc1155Metadata": null,
+        "tokenId": null,
+        "asset": "OAX",
+        "category": "erc20",
+        "rawContract": {
+            "value": "0x01037e31d67257d80000",
+            "address": "0x701c244b988a513c945973defa05de933b23fe1d",
+            "decimal": "0x12"
+        },
+        "metadata": {
+            "blockTimestamp": "2020-01-14T19:04:17.000Z"
+        }
+    }
+]

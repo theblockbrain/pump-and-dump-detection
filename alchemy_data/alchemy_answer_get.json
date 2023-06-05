@@ -1,0 +1,23 @@
+[
+    {
+        "blockNum": "0x5d3e1d",
+        "uniqueId": "0x77bec7d3539cdf3cfc0ada298155d0ad65290b129c900a894045f65db32fdfcd:log:13",
+        "hash": "0x77bec7d3539cdf3cfc0ada298155d0ad65290b129c900a894045f65db32fdfcd",
+        "from": "0x1e89488b28d47d8fb9927819ad93e5f8ae9c332c",
+        "to": "0x582b36824419ea9260e0d8dd1f9d345953d0149f",
+        "value": 100,
+        "erc721TokenId": null,
+        "erc1155Metadata": null,
+        "tokenId": null,
+        "asset": "GET",
+        "category": "erc20",
+        "rawContract": {
+            "value": "0x056bc75e2d63100000",
+            "address": "0x8a854288a5976036a725879164ca3e91d30c6a1b",
+            "decimal": "0x12"
+        },
+        "metadata": {
+            "blockTimestamp": "2018-08-08T13:38:05.000Z"
+        }
+    }
+]

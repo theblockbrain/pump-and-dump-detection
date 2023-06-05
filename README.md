@@ -1,2 +1,3 @@
 # pad-research
-Research about pump-and-dumps using mainly on-chain data
+
+This repository hosts scripts and notebooks around pump-and-dump research for on-chain data.
