@@ -1,0 +1,23 @@
+[
+    {
+        "blockNum": "0xafa58f",
+        "uniqueId": "0x3b9e0197b1d3f4b993a1107aa17dfcba9e4e83155f09cee01df57dbe43fd4b86:log:92",
+        "hash": "0x3b9e0197b1d3f4b993a1107aa17dfcba9e4e83155f09cee01df57dbe43fd4b86",
+        "from": "0xb8f634754218fdc1027092e66edc8c5ee1fbc9f2",
+        "to": "0x4a8472a7136cdbf7b86124fd21d31fa822d88ee7",
+        "value": 5239,
+        "erc721TokenId": null,
+        "erc1155Metadata": null,
+        "tokenId": null,
+        "asset": "NAS",
+        "category": "erc20",
+        "rawContract": {
+            "value": "0x011c01baf6969f7c0000",
+            "address": "0x5d65d971895edc438f465c17db6992698a52318d",
+            "decimal": "0x12"
+        },
+        "metadata": {
+            "blockTimestamp": "2020-12-23T17:27:27.000Z"
+        }
+    }
+]

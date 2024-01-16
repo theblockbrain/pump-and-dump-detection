@@ -1,0 +1,43 @@
+---
+method: random
+metric:
+  goal: minimize
+  name: loss
+parameters:
+  train_test_split:
+    value: 0.95
+  random_state:
+    value: 1
+  loss:
+    value: "msle"
+  optimizer:
+    values:
+      - adam
+  learning_rate:
+    values:
+      - 0.001
+  latent_dimension:
+    values:
+      - 2
+  epochs:
+    values:
+      - 20
+  batch_size:
+    value: 789
+  activation:
+    values:
+      - softmax
+  architecture:
+    values:
+      - "8_4"
+  features:
+    value: 
+      - std_rush_order
+      - avg_rush_order
+      - std_trades
+      - std_volume
+      - avg_volume
+      - std_price
+      - avg_price
+      - avg_price_max 
+ 

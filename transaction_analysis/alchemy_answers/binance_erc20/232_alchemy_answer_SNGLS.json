@@ -1,0 +1,65 @@
+[
+    {
+        "blockNum": "0xb1839b",
+        "uniqueId": "0x9f0986abab7d42f75400d18e4953bbcdb59f3970c087fa4c604922dd19678b0a:log:116",
+        "hash": "0x9f0986abab7d42f75400d18e4953bbcdb59f3970c087fa4c604922dd19678b0a",
+        "from": "0x3f5ce5fbfe3e9af3971dd833d26ba9b5c936f0be",
+        "to": "0x708396f17127c42383e3b9014072679b2f60b82f",
+        "value": 166666,
+        "erc721TokenId": null,
+        "erc1155Metadata": null,
+        "tokenId": null,
+        "asset": "SNGLS",
+        "category": "erc20",
+        "rawContract": {
+            "value": "0x028b0a",
+            "address": "0xaec2e87e0a235266d9c5adc9deb4b2e29b54d009",
+            "decimal": "0x0"
+        },
+        "metadata": {
+            "blockTimestamp": "2021-01-11T12:14:33.000Z"
+        }
+    },
+    {
+        "blockNum": "0xb1839b",
+        "uniqueId": "0xa17b67ab6f2c3de24b3cfe239e7c4a750c1e054cc4f9aa4162288153c10d972f:log:117",
+        "hash": "0xa17b67ab6f2c3de24b3cfe239e7c4a750c1e054cc4f9aa4162288153c10d972f",
+        "from": "0x3f5ce5fbfe3e9af3971dd833d26ba9b5c936f0be",
+        "to": "0x85b931a32a0725be14285b66f1a22178c672d69b",
+        "value": 166666,
+        "erc721TokenId": null,
+        "erc1155Metadata": null,
+        "tokenId": null,
+        "asset": "SNGLS",
+        "category": "erc20",
+        "rawContract": {
+            "value": "0x028b0a",
+            "address": "0xaec2e87e0a235266d9c5adc9deb4b2e29b54d009",
+            "decimal": "0x0"
+        },
+        "metadata": {
+            "blockTimestamp": "2021-01-11T12:14:33.000Z"
+        }
+    },
+    {
+        "blockNum": "0xb18d26",
+        "uniqueId": "0xde34ab2351bc7500c735cee31eeb34b26c4aad0f34c4d2079cde1019a01d9cde:log:43",
+        "hash": "0xde34ab2351bc7500c735cee31eeb34b26c4aad0f34c4d2079cde1019a01d9cde",
+        "from": "0x876eabf441b2ee5b5b0554fd502a8e0600950cfa",
+        "to": "0x6e07bf1e7725e322b691247cedf48e1589e886eb",
+        "value": 198576,
+        "erc721TokenId": null,
+        "erc1155Metadata": null,
+        "tokenId": null,
+        "asset": "SNGLS",
+        "category": "erc20",
+        "rawContract": {
+            "value": "0x0307b0",
+            "address": "0xaec2e87e0a235266d9c5adc9deb4b2e29b54d009",
+            "decimal": "0x0"
+        },
+        "metadata": {
+            "blockTimestamp": "2021-01-11T21:11:32.000Z"
+        }
+    }
+]

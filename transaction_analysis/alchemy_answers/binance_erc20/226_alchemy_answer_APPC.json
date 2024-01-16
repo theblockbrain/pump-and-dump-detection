@@ -1,0 +1,65 @@
+[
+    {
+        "blockNum": "0xad0fea",
+        "uniqueId": "0xf493254f59f822decb59369416a44acecf1a0224a205dd2d782a582509fb4663:log:52",
+        "hash": "0xf493254f59f822decb59369416a44acecf1a0224a205dd2d782a582509fb4663",
+        "from": "0xfa4b5be3f2f84f56703c42eb22142744e95a2c58",
+        "to": "0xde3de8fff120f3a399db85ea2b598d44c0628317",
+        "value": 2.11,
+        "erc721TokenId": null,
+        "erc1155Metadata": null,
+        "tokenId": null,
+        "asset": "APPC",
+        "category": "erc20",
+        "rawContract": {
+            "value": "0x1d4839d21c130000",
+            "address": "0x1a7a8bd9106f2b8d977e08582dc7d24c723ab0db",
+            "decimal": "0x12"
+        },
+        "metadata": {
+            "blockTimestamp": "2020-11-27T17:10:30.000Z"
+        }
+    },
+    {
+        "blockNum": "0xad13c6",
+        "uniqueId": "0x0a292ad886e36d4c4f5d79912c8b5482f2560e611d1e96971be08be8a952ea1c:log:71",
+        "hash": "0x0a292ad886e36d4c4f5d79912c8b5482f2560e611d1e96971be08be8a952ea1c",
+        "from": "0x46705dfff24256421a05d056c29e81bdc09723b8",
+        "to": "0x14f92dac20683fbfecb57441ce5adb198ddde8eb",
+        "value": 1000,
+        "erc721TokenId": null,
+        "erc1155Metadata": null,
+        "tokenId": null,
+        "asset": "APPC",
+        "category": "erc20",
+        "rawContract": {
+            "value": "0x3635c9adc5dea00000",
+            "address": "0x1a7a8bd9106f2b8d977e08582dc7d24c723ab0db",
+            "decimal": "0x12"
+        },
+        "metadata": {
+            "blockTimestamp": "2020-11-27T20:59:24.000Z"
+        }
+    },
+    {
+        "blockNum": "0xad1736",
+        "uniqueId": "0x63776b008f4111e8897c0a4b6eae762c50161c11123e2ff0a18f39f6b812ed95:log:357",
+        "hash": "0x63776b008f4111e8897c0a4b6eae762c50161c11123e2ff0a18f39f6b812ed95",
+        "from": "0x87565ed1ed5620b48ed8f231a5ff1d5e672a3257",
+        "to": "0x0000000000000000000000000000000000000000",
+        "value": 8134.0781386199105,
+        "erc721TokenId": null,
+        "erc1155Metadata": null,
+        "tokenId": null,
+        "asset": "APPC",
+        "category": "erc20",
+        "rawContract": {
+            "value": "0x01b8f302aae1be600000",
+            "address": "0x1a7a8bd9106f2b8d977e08582dc7d24c723ab0db",
+            "decimal": "0x12"
+        },
+        "metadata": {
+            "blockTimestamp": "2020-11-28T00:15:23.000Z"
+        }
+    }
+]

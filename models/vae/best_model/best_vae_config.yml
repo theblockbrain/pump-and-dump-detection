@@ -1,0 +1,45 @@
+---
+method: random
+metric:
+  goal: minimize
+  name: loss
+parameters:
+  train_test_split:
+    value: 0.95
+  random_state:
+    value: 1
+  loss:
+    value: vae_loss
+  optimizer:
+    values:
+      - adam
+  learning_rate:
+    values:
+      - 0.01
+  latent_dimension:
+    values:
+      - 4
+  epochs:
+    values:
+      - 50
+  batch_size:
+    value: 1712
+  activation:
+    values:
+      - softmax
+  architecture:
+    values:
+      - [8, 7, 5]
+  kl_weighting:
+    vale: 1.3
+  features:
+    value: 
+      - std_rush_order
+      - avg_rush_order
+      - std_trades
+      - std_volume
+      - avg_volume
+      - std_price
+      - avg_price
+      - avg_price_max 
+ 
